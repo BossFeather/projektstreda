@@ -18,6 +18,17 @@ html {
     transition: .3s ease;
     cursor: pointer;
 }
+button{
+    width: 200px;
+    font-size: 24px;
+    background-color: black;
+    color: white;
+    display: table;
+    border: none;
+    cursor: pointer;
+    margin: 0;
+    
+}
 
 #container {
     display: table;
